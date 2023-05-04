@@ -1,7 +1,8 @@
 html, body{
     height: 100%;
     font-size: 14px;
-    background-color: black;
+    color: black;
+    background-color: white;
     font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
 
 }
@@ -14,11 +15,11 @@ html, body{
 
 h1, h2,p{
     margin: 0.5rem;
-    color: aliceblue;
 }
 
 #logsArea{
     text-align: left;
+    background-color: rgba(152, 161, 161, 0.591);
     font-size: 0.9rem;
     resize: none;
 }
